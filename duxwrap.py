@@ -25,7 +25,7 @@ import requests
 
 class DuxWrap:
     '''Dux-Soup remote control wrapper'''
-    version = "0.2.0"
+    version = "0.3.0"
 
     #mockup requests
     #used for format check and request generate
