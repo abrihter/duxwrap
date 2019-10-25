@@ -2,17 +2,17 @@
 Dux-Soup remote control API wrapper
 
 versions:
-    V0.4 [25.10.2019]
+    V0.5 [25.10.2019]
         - cleanup
         - moved exception text to global
         - added examples
-    V0.1.0 [19.10.2019]
+    V0.1 [19.10.2019]
         - first working version
 '''
 
 __author__ = "Bojan"
 __license__ = "GPL"
-__version__ = "0.4"
+__version__ = "0.5"
 __maintainer__ = "Bojan"
 __status__ = "Production"
 
@@ -25,7 +25,7 @@ import requests
 
 class DuxWrap:
     '''Dux-Soup remote control wrapper'''
-    version = "0.4"
+    version = "0.5"
 
     #mockup requests
     #used for format check and request generate
