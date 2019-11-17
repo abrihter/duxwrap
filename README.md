@@ -7,7 +7,7 @@ Wrapper around Dux Soup remote control API
 [API test environment](https://app.dux-soup.com/web/rc/test)
 
 ___
-## Instalation
+## Install
 ```pip install duxwrap```
 ___
 
